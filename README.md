@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👷 Sou Desenvolvedor/Analista/Instrutor em programação e ainda empresário. Sênior, com 11 anos dedicados a programação, atualmente faço um trabalho com ênfase em gestão e análise de projetos e também na instrução a aprendizes, júniors e plenos; como Desenvolvedor, atuo em projetos mais complexos.
+- 👷 Sou Desenvolvedor/Analista/Instrutor em programação e ainda empresário. Sênior, com 11 anos dedicados a programação, atualmente faço um trabalho com ênfase em gestão e análise de projetos e também na instrução aos aprendizes, júniors e plenos; como Desenvolvedor, atuo em projetos mais complexos.
 - 🚀 Graduando em Engenharia de Telecomunicações pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE - Campus Fortaleza.
