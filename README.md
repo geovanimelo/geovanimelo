@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👷 Trabalho como Desenvolvedor Back-end, Instrutor de programação e sou empresário. 11 anos dedicados aos estudos e projetos em programação.
+- 👷 Trabalho como Desenvolvedor Back-end, Instrutor de programação e sou empresário. 
+- Sênior, com 11 anos dedicados aos estudos e projetos em programação.
+- 
 - 🚀 Cursando o 8P de Engenharia de Telecomunicações pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE - Campus Fortaleza.
 - ☕ Bora marcar pra bater um papo e tomar um café!
 - Estou disponível para novos desafios, sempre! 
