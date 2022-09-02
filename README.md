@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 👷 Sou Desenvolvedor/Analista/Instrutor em programação e ainda empresário. Sênior, com 11 anos dedicados a programação, atualmente faço um trabalho com ênfase em gestão e análise de projetos e também na instrução aos aprendizes, júniors e plenos; como Desenvolvedor, apenas em projetos mais complexos.
-- 🚀 Cursando o 8P do curso de Engenharia de Telecomunicações pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE - Campus Fortaleza.
+- 🚀 Acadêmico no curso de Engenharia de Telecomunicações pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE - Campus Fortaleza.
