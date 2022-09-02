@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👷 Há 11 anos de estudos dedicados a programação. Desenvolvedor Back-end Sênior, Instrutor de programação e empresário.
+🚀 Cursando o 8P de Engenharia de Telecomunicações pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE - Campus Fortaleza.
+☕ Bora marcar pra bater um papo e tomar um café!
+Estou disponível para novos desafios, sempre! 
+
+https://wa.me/message/HC2RRRE53U6SE1
+
+
+
+  
